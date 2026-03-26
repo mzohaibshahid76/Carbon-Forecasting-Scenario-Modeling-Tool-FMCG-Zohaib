@@ -1,0 +1,5 @@
+Product,Category,Production,Emission_Factor,Year
+Shampoo,Personal Care,10000,0.8,2025
+Soap,Personal Care,15000,0.5,2025
+Soda,Beverages,20000,0.7,2025
+Chips,Snacks,12000,0.6,2025
